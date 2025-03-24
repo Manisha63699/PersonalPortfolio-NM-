@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-color:pink;
+  background-color:skyblue;
   padding: 10px 0;
   color: white;
 }
@@ -63,8 +63,8 @@ section h2 {
 }
 
 .skill {
-  background-color: #4CAF50;
-  color: white;
+  
+  color: black;
   padding: 10px 20px;
   border-radius: 5px;
   font-size: 18px;
